@@ -1,4 +1,4 @@
-Cake Twitter Bootstrap Scaffolding Templates
+CakePHP Twitter Bootstrap Scaffolding Templates
 ============================================
 
 It consists of basic Scaffolding templates and adapted default layout

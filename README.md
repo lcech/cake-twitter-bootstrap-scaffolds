@@ -8,6 +8,6 @@ Usage
 -----
 
 Just Copy this to your basic [CakePHP Installation][cakephp].
-Add public $theme = 'Bootstrap'; to your AppController.php
+Add `public $theme = 'Bootstrap';` to your AppController.php
 
 [cakephp]: http://cakephp.org/
